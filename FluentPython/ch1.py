@@ -19,8 +19,6 @@ class FrenchDeck:
         return self._cards[index]
 
 
-
-
 if __name__ == '__main__':
 
     def spades_high(card):
